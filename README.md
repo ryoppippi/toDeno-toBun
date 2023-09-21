@@ -6,10 +6,12 @@ Convert Bun file to Deno file.
 
 ```sh
 ./toDeno.ts <file>
+deno run https://raw.githubusercontent.com/ryoppippi/toDeno-toBun/main/toDeno.ts
 ```
 
 ```sh
 ./toBun.ts <file>
+deno run https://raw.githubusercontent.com/ryoppippi/toDeno-toBun/main/toBun.ts
 ```
 
 ## Example
