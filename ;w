@@ -1,4 +1,4 @@
-# toDeno-toBun
+# todeno-tobun
 
 Convert Bun file to Deno file, and vice versa.
 
@@ -9,7 +9,7 @@ Convert Bun file to Deno file, and vice versa.
 deno run https://raw.githubusercontent.com/ryoppippi/toDeno-toBun/main/toDeno.ts
 ```
 
-```sh
+```bash
 ./toBun.ts <file>
 deno run https://raw.githubusercontent.com/ryoppippi/toDeno-toBun/main/toBun.ts
 ```
@@ -26,6 +26,7 @@ printIsBun();
 
 ```sh
 ./toDeno.ts example.ts
+```
 ```
 
 ```example.ts
